@@ -1,6 +1,6 @@
 <?php
 
-namespace Packgr\Lessons\Lesson5;
+namespace Pack\Lessons\Lesson5;
 
 class Example {
     public function getName():string
