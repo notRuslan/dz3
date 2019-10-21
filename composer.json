@@ -13,8 +13,8 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Pack\\" : "src",
-            "Pack\\Lessons\\" : "src/Pack/Lessons"
+            "Packgr\\" : "src",
+            "Packgr\\Lessons\\" : "src/Pack/Lessons"
         }
     }
 }

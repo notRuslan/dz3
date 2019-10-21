@@ -1,6 +1,6 @@
 <?php
 
-namespace Pack\Lessons\Lesson4;
+namespace Packgr\Lessons\Lesson4;
 
 use http\QueryString;
 
